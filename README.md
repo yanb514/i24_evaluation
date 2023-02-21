@@ -3,7 +3,6 @@
 Unsupervised metrics|Description
 :---|:---
 acceleration_score|Percentage of timestamps that the acceleration is legel (within 10ft/sec2) for each trajectory. 1=legal acceleration all the time, 0=illegal acceleration all the time
-
 collection|Name of collection to evaluate.
 traj_count|Total number trajectory documents.
 timestamp_count|Total number of unique timestamp (resampled at 25Hz).
